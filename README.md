@@ -96,12 +96,12 @@ A fintech app that scans receipts, splits expenses among group members, sends re
 
 ---
 
-## 🍳 ForkFind
+## 🍳 ForkCast
 **Led by:** Jenna Sin 
 
 **Team Members:** Lara Afont,
 Alexa Acosta,
- Stephanie Teipel,
+SaraAdams
 Ananyaa Sutaria
   
 
