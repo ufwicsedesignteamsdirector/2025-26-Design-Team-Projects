@@ -138,7 +138,12 @@ A digital book journaling app that helps users track their reading and reflect o
 
 ## ⏳ FocusBuddy
 **Led by:** Cher  
-**Team Members:** Add here  
+**Team Members:** 
+Rosetta Vang 
+Veronica Igwe 
+Johanna Harris
+Naydelin Trejo 
+ 
 
 **Description:**  
 A physical study companion that uses motion detection to monitor focus and enforce Pomodoro-based study sessions through visual feedback.
@@ -150,7 +155,11 @@ A physical study companion that uses motion detection to monitor focus and enfor
 
 ## 🌐 Paperly
 **Led by:** Kalina  
-**Team Members:** Add here  
+**Team Members:** 
+Lilly Liu
+Laveena Bhuiyan
+Holly Oberholser
+Sophia	Pappous
 
 **Description:**  
 A nostalgic social platform inspired by the early internet, featuring friend-first feeds and customizable profiles designed for authentic connection over engagement metrics.
@@ -162,7 +171,12 @@ A nostalgic social platform inspired by the early internet, featuring friend-fir
 
 ## 🎼 NotebyNote
 **Led by:** Pranathi  
-**Team Members:** Add here  
+**Team Members:** 
+Dhivya Kumar
+Matilde Gilia
+Catherine Kennedy
+Ayushi Srivastav
+
 
 **Description:**  
 A web application that simplifies accessing sheet music by allowing users to search, create, update, and export music for various songs and instruments.
@@ -174,7 +188,11 @@ A web application that simplifies accessing sheet music by allowing users to sea
 
 ## 📊 Finance Buddy
 **Led by:** Divya  
-**Team Members:** Add here  
+**Team Members:** 
+Jennifer Wang
+Lu Ighodalo
+Gabrielle Garcia
+
 
 **Description:**  
 A machine learning–powered financial wellness app that helps students track spending, assess risk, and receive personalized budget recommendations.
@@ -186,7 +204,11 @@ A machine learning–powered financial wellness app that helps students track sp
 
 ## 🧩 Dopaminder
 **Led by:** Sierra  
-**Team Members:** Add here  
+**Team Members:** 
+Alanna Richardson
+Florida Kawmi
+Yusra Hashami
+
 
 **Description:**  
 An AI-assisted productivity app designed for students with ADHD, featuring task breakdowns, smart reminders, break suggestions, and gamified focus tools.
