@@ -156,10 +156,10 @@ A physical study companion that uses motion detection to monitor focus and enfor
 ## 🌐 Paperly
 **Led by:** Kalina  
 **Team Members:** 
-Lilly Liu
-Laveena Bhuiyan
-Holly Oberholser
-Sophia	Pappous
+Lilly Liu,
+Laveena Bhuiyan,
+Holly Oberholser,
+Sophia	Pappous,
 
 **Description:**  
 A nostalgic social platform inspired by the early internet, featuring friend-first feeds and customizable profiles designed for authentic connection over engagement metrics.
@@ -172,10 +172,10 @@ A nostalgic social platform inspired by the early internet, featuring friend-fir
 ## 🎼 NotebyNote
 **Led by:** Pranathi  
 **Team Members:** 
-Dhivya Kumar
-Matilde Gilia
-Catherine Kennedy
-Ayushi Srivastav
+Dhivya Kumar,
+Matilde Gilia,
+Catherine Kennedy,
+Ayushi Srivastav,
 
 
 **Description:**  
@@ -189,9 +189,10 @@ A web application that simplifies accessing sheet music by allowing users to sea
 ## 📊 Finance Buddy
 **Led by:** Divya  
 **Team Members:** 
-Jennifer Wang
-Lu Ighodalo
-Gabrielle Garcia
+Jennifer Wang,
+Lu Ighodalo,
+Gabrielle Garcia,
+Tanvi Garg
 
 
 **Description:**  
@@ -205,8 +206,8 @@ A machine learning–powered financial wellness app that helps students track sp
 ## 🧩 Dopaminder
 **Led by:** Sierra  
 **Team Members:** 
-Alanna Richardson
-Florida Kawmi
+Alanna Richardson,
+Florida Kawmi,
 Yusra Hashami
 
 
