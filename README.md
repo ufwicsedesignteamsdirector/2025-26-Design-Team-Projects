@@ -190,6 +190,7 @@ A physical study companion that uses motion detection to monitor focus and enfor
 
 ## 🌐 Paperly
 **Led by:** Kalina Tringas 
+
 **Team Members:** 
 Lilly Liu,
 Laveena Bhuiyan,
@@ -206,6 +207,7 @@ A nostalgic social platform inspired by the early internet, featuring friend-fir
 
 ## 🎼 NotebyNote
 **Led by:** Pranathi Madishetty
+
 **Team Members:** 
 Dhivya Kumar,
 Matilde Gilia,
@@ -223,6 +225,7 @@ A web application that simplifies accessing sheet music by allowing users to sea
 
 ## 📊 Finance Buddy
 **Led by:** Divya Verma 
+
 **Team Members:** 
 Jennifer Wang,
 Lu Ighodalo,
@@ -240,6 +243,7 @@ A machine learning–powered financial wellness app that helps students track sp
 
 ## 🧩 Dopaminder
 **Led by:** Sierra Evans
+
 **Team Members:** 
 Alanna Richardson,
 Florida Kawmi,
