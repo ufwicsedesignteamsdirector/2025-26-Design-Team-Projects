@@ -1,44 +1,177 @@
-# 2025-26 Design Team Projects
+🌸 WICSE Design Projects Showcase
 
-## Project Title
-2025-26 Design Team Projects
+Welcome to the WICSE Design Team Project Showcase!
+This repository highlights the projects created by our design teams, featuring innovative solutions across sustainability, productivity, wellness, and more.
 
-## Description
-This repository contains design projects developed by the design teams during the 2025-26 academic year. Each project showcases the collaborative effort and creativity of our teams in the field of design.
+📌 Projects
+Isabel – EcoHabit
+Ana – MindFlow
+Isabella – SmartStudy AI
+Jingtong – SplitSmart
+Jenna – PantryPal
+Tiffany – VisionDrive RC
+Angela – UF Fit
+Khushi – HydroHero
+Emily – BookBloom
+Cher – FocusBuddy
+Kalina – RetroConnect
+Pranathi – SheetSync
+Divya – FinWise AI
+Sierra – ADHD Ally
+🌱 EcoHabit
 
-## Installation Instructions
-To get started with the projects in this repository, follow these steps:
-1. Clone the repository to your local machine:
-   ```
-   git clone https://github.com/ufwicsedesignteamsdirector/2025-26-Design-Team-Projects.git
-   ```
-2. Navigate into the project directory:
-   ```
-   cd 2025-26-Design-Team-Projects
-   ```
-3. Install any necessary dependencies (if applicable):
-   ```
-   <installation commands here>
-   ```
+Led by: Isabel
+Team Members: Add here
 
-## Usage Information
-Once the projects are set up, you can start using them according to the guidelines provided in each project's directory. Refer to individual project READMEs (if available) for more specific instructions.
+Description:
+A conservation-focused app that connects users with local organizations to volunteer or donate to, while helping them track daily habits and adopt more eco-friendly behaviors.
 
-## Contribution Guidelines
-We welcome contributions from everyone! If you would like to contribute to this repository, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   ```
-   git checkout -b my-feature
-   ```
-3. Make your changes and commit them:
-   ```
-   git commit -m 'Add some feature'
-   ```
-4. Push your changes to your fork:
-   ```
-   git push origin my-feature
-   ```
-5. Create a pull request comparing your changes with the main branch of the original repository.
+Slides: [Add link]
+Video Demo: [Add link]
 
-Thank you for contributing!
+🧠 MindFlow
+
+Led by: Ana
+Team Members: Add here
+
+Description:
+A focus and wellness app that allows users to brain dump unstructured thoughts and automatically organizes them into actionable categories and next steps.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+🎓 SmartStudy AI
+
+Led by: Isabella
+Team Members: Add here
+
+Description:
+An AI-powered student assistant that helps manage courses, track deadlines, and intelligently prioritize academic tasks.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+💸 SplitSmart
+
+Led by: Jingtong
+Team Members: Add here
+
+Description:
+A fintech app that scans receipts, splits expenses among group members, sends reminders, and supports multi-currency conversions for seamless shared spending.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+🍳 PantryPal
+
+Led by: Jenna
+Team Members: Add here
+
+Description:
+A meal generator that suggests personalized recipes based on ingredients users already have, making cooking easier and reducing food waste.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+🚗 VisionDrive RC
+
+Led by: Tiffany
+Team Members: Add here
+
+Description:
+An RC car powered by computer vision and object detection, capable of self-navigation and controlled via Bluetooth using an ESP32.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+🏋️‍♀️ UF Fit
+
+Led by: Angela
+Team Members: Add here
+
+Description:
+A women-focused workout tracking app tailored for University of Florida students, promoting health, fitness, and community.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+💧 HydroHero
+
+Led by: Khushi
+Team Members: Add here
+
+Description:
+A hydration tracking app that encourages consistent water intake through incentives and playful “punishments” when goals aren’t met.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+📚 BookBloom
+
+Led by: Emily
+Team Members: Add here
+
+Description:
+A digital book journaling app that helps users track their reading and reflect on their thoughts and experiences.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+⏳ FocusBuddy
+
+Led by: Cher
+Team Members: Add here
+
+Description:
+A physical study companion that uses motion detection to monitor focus and enforce Pomodoro-based study sessions through visual feedback.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+🌐 RetroConnect
+
+Led by: Kalina
+Team Members: Add here
+
+Description:
+A nostalgic social platform inspired by the early internet, featuring friend-first feeds and customizable profiles designed for authentic connection over engagement metrics.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+🎼 SheetSync
+
+Led by: Pranathi
+Team Members: Add here
+
+Description:
+A web application that simplifies accessing sheet music by allowing users to search, create, update, and export music for various songs and instruments.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+📊 FinWise AI
+
+Led by: Divya
+Team Members: Add here
+
+Description:
+A machine learning–powered financial wellness app that helps students track spending, assess risk, and receive personalized budget recommendations.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+🧩 ADHD Ally
+
+Led by: Sierra
+Team Members: Add here
+
+Description:
+An AI-assisted productivity app designed for students with ADHD, featuring task breakdowns, smart reminders, break suggestions, and gamified focus tools.
+
+Slides: [Add link]
+Video Demo: [Add link]
+
+🙌 Acknowledgments
+
+Special thanks to all WICSE design team members for their creativity, collaboration, and dedication throughout these projects.
