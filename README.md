@@ -30,6 +30,7 @@ Emily – ShelfTalk
 
 ## 🌱 EcoFriend
 **Led by:** Isabel Donner
+
 **Team Members:** Pranathi Madishetty,
 Matilde Gillia,
 Jamie Marroquin,
@@ -46,6 +47,7 @@ A conservation-focused app that connects users with local organizations to volun
 
 ## 🧠 Brain Dump
 **Led by:** Ana Peralta
+
 **Team Members:**  Julia Bush,
 Gabriela Velazquez,
 Rachel Lee,
@@ -62,6 +64,7 @@ A focus and wellness app that allows users to brain dump unstructured thoughts a
 
 ## 🎓 AI StudyBuddy
 **Led by:** Isabella Goodwin 
+
 **Team Members:** Dayani Plasencia,
 Estefania Rodriguez da Silva,
 Sai Pande,
@@ -78,6 +81,7 @@ An AI-powered student assistant that helps manage courses, track deadlines, and 
 
 ## 💸 SplitSmart
 **Led by:** Jingtong Zeng 
+
 **Team Members:** Bhavana Kavarthapu,
 Stephanie Teipel,
 Sian Jose,
@@ -94,6 +98,7 @@ A fintech app that scans receipts, splits expenses among group members, sends re
 
 ## 🍳 ForkFind
 **Led by:** Jenna Sin 
+
 **Team Members:** Lara Afont,
 Alexa Acosta,
  Stephanie Teipel,
@@ -110,6 +115,7 @@ A meal generator that suggests personalized recipes based on ingredients users a
 
 ## 🚗 FritaRova the AI Rova
 **Led by:** Tiffany Vo
+
 **Team Members:** Viannee Rosa-Arroyo,
 Mishka Sonavadekar,
 Maya Thors,
@@ -126,6 +132,7 @@ An RC car powered by computer vision and object detection, capable of self-navig
 
 ## 🏋️‍♀️ Loaf
 **Led by:** Angela Li
+
 **Team Members:** Joyin Ang,
 Giuliana Silva,
 Abigail Welsh,
@@ -142,6 +149,7 @@ A women-focused workout tracking app tailored for University of Florida students
 
 ## 💧 Droplet
 **Led by:** Khushi Chitalia
+
 **Team Members:** Tiffany Chen,
 Katrina Lippert,
 Diya Patel
@@ -157,6 +165,7 @@ A hydration tracking app that encourages consistent water intake through incenti
 
 ## 📚 ShelfTalk
 **Led by:** Emily Zucker
+
 **Team Members:** Isabella Pareja,
 Areli Smith,
 Julie Wang,
