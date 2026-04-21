@@ -12,25 +12,29 @@ Isabel – EcoFriend
 Ana – Brain Dump
 Isabella – AI StudyBuddy
 Jingtong – SplitSmart
-Jenna – ForkFind
+Jenna – ForkCast
 
 Spring 2026 Projects
 Kalina – Paperly
 Pranathi – NotebyNote
 Divya – Finance Buddy
 Sierra – Dopaminder
-Cher – 
+Cher –  Watch Dog
 
 Tiffany – FritaRova the AI Rova
 Angela – Loaf
-Khushi – 
+Khushi – Droplet
 Emily – ShelfTalk
 
 
 
 ## 🌱 EcoFriend
-**Led by:** Isabel  
-**Team Members:** Add here  
+**Led by:** Isabel Donner
+**Team Members:** Pranathi Madishetty,
+Matilde Gillia,
+Jamie Marroquin,
+Laveena Bhuiyan
+  
 
 **Description:**  
 A conservation-focused app that connects users with local organizations to volunteer or donate to, while helping them track daily habits and adopt more eco-friendly behaviors.
@@ -41,8 +45,12 @@ A conservation-focused app that connects users with local organizations to volun
 ---
 
 ## 🧠 Brain Dump
-**Led by:** Ana  
-**Team Members:** Add here  
+**Led by:** Ana Peralta
+**Team Members:**  Julia Bush,
+Gabriela Velazquez,
+Rachel Lee,
+Nour Oweiss 
+
 
 **Description:**  
 A focus and wellness app that allows users to brain dump unstructured thoughts and automatically organizes them into actionable categories and next steps.
@@ -53,8 +61,12 @@ A focus and wellness app that allows users to brain dump unstructured thoughts a
 ---
 
 ## 🎓 AI StudyBuddy
-**Led by:** Isabella  
-**Team Members:** Add here  
+**Led by:** Isabella Goodwin 
+**Team Members:** Dayani Plasencia,
+Estefania Rodriguez da Silva,
+Sai Pande,
+Sierra Evans
+  
 
 **Description:**  
 An AI-powered student assistant that helps manage courses, track deadlines, and intelligently prioritize academic tasks.
@@ -65,8 +77,12 @@ An AI-powered student assistant that helps manage courses, track deadlines, and 
 ---
 
 ## 💸 SplitSmart
-**Led by:** Jingtong  
-**Team Members:** Add here  
+**Led by:** Jingtong Zeng 
+**Team Members:** Bhavana Kavarthapu,
+Stephanie Teipel,
+Sian Jose,
+Emma Wolman
+ 
 
 **Description:**  
 A fintech app that scans receipts, splits expenses among group members, sends reminders, and supports multi-currency conversions for seamless shared spending.
@@ -77,8 +93,12 @@ A fintech app that scans receipts, splits expenses among group members, sends re
 ---
 
 ## 🍳 ForkFind
-**Led by:** Jenna  
-**Team Members:** Add here  
+**Led by:** Jenna Sin 
+**Team Members:** Lara Afont,
+Alexa Acosta,
+ Stephanie Teipel,
+Ananyaa Sutaria
+  
 
 **Description:**  
 A meal generator that suggests personalized recipes based on ingredients users already have, making cooking easier and reducing food waste.
@@ -89,8 +109,12 @@ A meal generator that suggests personalized recipes based on ingredients users a
 ---
 
 ## 🚗 FritaRova the AI Rova
-**Led by:** Tiffany  
-**Team Members:** Add here  
+**Led by:** Tiffany Vo
+**Team Members:** Viannee Rosa-Arroyo,
+Mishka Sonavadekar,
+Maya Thors,
+Shravya Mandava
+
 
 **Description:**  
 An RC car powered by computer vision and object detection, capable of self-navigation and controlled via Bluetooth using an ESP32.
@@ -101,8 +125,12 @@ An RC car powered by computer vision and object detection, capable of self-navig
 ---
 
 ## 🏋️‍♀️ Loaf
-**Led by:** Angela  
-**Team Members:** Add here  
+**Led by:** Angela Li
+**Team Members:** Joyin Ang,
+Giuliana Silva,
+Abigail Welsh,
+Charlotte Sladek
+ 
 
 **Description:**  
 A women-focused workout tracking app tailored for University of Florida students, promoting health, fitness, and community.
@@ -112,9 +140,12 @@ A women-focused workout tracking app tailored for University of Florida students
 
 ---
 
-## 💧 HydroHero
-**Led by:** Khushi  
-**Team Members:** Add here  
+## 💧 Droplet
+**Led by:** Khushi Chitalia
+**Team Members:** Tiffany Chen,
+Katrina Lippert,
+Diya Patel
+  
 
 **Description:**  
 A hydration tracking app that encourages consistent water intake through incentives and playful “punishments” when goals aren’t met.
@@ -125,8 +156,12 @@ A hydration tracking app that encourages consistent water intake through incenti
 ---
 
 ## 📚 ShelfTalk
-**Led by:** Emily  
-**Team Members:** Add here  
+**Led by:** Emily Zucker
+**Team Members:** Isabella Pareja,
+Areli Smith,
+Julie Wang,
+Maria Luiza Galvani de Novais
+  
 
 **Description:**  
 A digital book journaling app that helps users track their reading and reflect on their thoughts and experiences.
@@ -136,8 +171,8 @@ A digital book journaling app that helps users track their reading and reflect o
 
 ---
 
-## ⏳ FocusBuddy
-**Led by:** Cher  
+## 🐶 Watch Dog
+**Led by:** Cher Huang  
 **Team Members:** 
 Rosetta Vang 
 Veronica Igwe 
@@ -154,7 +189,7 @@ A physical study companion that uses motion detection to monitor focus and enfor
 ---
 
 ## 🌐 Paperly
-**Led by:** Kalina  
+**Led by:** Kalina Tringas 
 **Team Members:** 
 Lilly Liu,
 Laveena Bhuiyan,
@@ -170,7 +205,7 @@ A nostalgic social platform inspired by the early internet, featuring friend-fir
 ---
 
 ## 🎼 NotebyNote
-**Led by:** Pranathi  
+**Led by:** Pranathi Madishetty
 **Team Members:** 
 Dhivya Kumar,
 Matilde Gilia,
@@ -187,7 +222,7 @@ A web application that simplifies accessing sheet music by allowing users to sea
 ---
 
 ## 📊 Finance Buddy
-**Led by:** Divya  
+**Led by:** Divya Verma 
 **Team Members:** 
 Jennifer Wang,
 Lu Ighodalo,
@@ -204,7 +239,7 @@ A machine learning–powered financial wellness app that helps students track sp
 ---
 
 ## 🧩 Dopaminder
-**Led by:** Sierra  
+**Led by:** Sierra Evans
 **Team Members:** 
 Alanna Richardson,
 Florida Kawmi,
