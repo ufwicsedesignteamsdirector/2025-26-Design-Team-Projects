@@ -1,4 +1,5 @@
 🌸 WICSE Design Projects Repository🌸
+
 Welcome to the WICSE Design Team Project Showcase! This is the official repository of WICSE (Women in Computer Science & Engineering) Design Team projects for this year ✨💻🎨 For questions, more information, or sponsorship opportunities, feel free to reach out via email at uf.wicse.designteamsdirector@gmail.com
 
 
