@@ -119,7 +119,7 @@ Shravya Mandava
 **Description:**  
 An RC car powered by computer vision and object detection, capable of self-navigation and controlled via Bluetooth using an ESP32.
 
-**Slides:** [Add link]  
+**Slides:** [https://docs.google.com/presentation/d/1wI6A1ZdCriXi6CWdy2Is3n0z8OxZQb0T/edit?usp=sharing&ouid=108475229061809663030&rtpof=true&sd=true]  
 **Video Demo:** [Add link]  
 
 ---
